@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-100
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "WhatYouKnowAboutRollingDownInTheDeep",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-40
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "redIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				108,
+				-46
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "redLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-89
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "redDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				124,
+				-47
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "redUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				-39
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "redSus",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pactv",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "pactv",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		23,
+		57
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

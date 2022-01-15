@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_quizzy.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blueIdle0000" x="1274" y="50" width="332" height="673" frameX="-6" frameY="-47" frameWidth="338" frameHeight="720"/>
+	<SubTexture name="blueIdle0001" x="1274" y="50" width="332" height="673" frameX="-6" frameY="-47" frameWidth="338" frameHeight="720"/>
+	<SubTexture name="blueIdle0002" x="1656" y="50" width="302" height="684" frameX="-10" frameY="-36" frameWidth="338" frameHeight="720"/>
+	<SubTexture name="blueIdle0003" x="1656" y="50" width="302" height="684" frameX="-10" frameY="-36" frameWidth="338" frameHeight="720"/>
+	<SubTexture name="blueIdle0004" x="2008" y="50" width="283" height="702" frameX="-13" frameY="-18" frameWidth="338" frameHeight="720"/>
+	<SubTexture name="blueIdle0005" x="2008" y="50" width="283" height="702" frameX="-13" frameY="-18" frameWidth="338" frameHeight="720"/>
+	<SubTexture name="blueIdle0006" x="2341" y="50" width="301" height="720" frameX="0" frameY="0" frameWidth="338" frameHeight="720"/>
+	<SubTexture name="blueIdle0007" x="2341" y="50" width="301" height="720" frameX="0" frameY="0" frameWidth="338" frameHeight="720"/>
+	<SubTexture name="blueIdle0008" x="2341" y="50" width="301" height="720" frameX="0" frameY="0" frameWidth="338" frameHeight="720"/>
+	<SubTexture name="blueIdle0009" x="2341" y="50" width="301" height="720" frameX="0" frameY="0" frameWidth="338" frameHeight="720"/>
+</TextureAtlas>

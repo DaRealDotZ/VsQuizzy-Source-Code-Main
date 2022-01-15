@@ -1,0 +1,137 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "qz",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": " Ok, ill admit, you got some skill."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "qz",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Guess ill have to give it my all on this one! You ready for me!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "bee-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": " Hey, what's that noise?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pt",
+			"boxState": "normal",
+			"expression": "hidden",
+			"text": "**door opens and shuts, Pac is here**"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "qz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " Pac? What are you doing here?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pt",
+			"boxState": "normal",
+			"expression": "hidden",
+			"text": "Well I heard some noise coming from outside, I thought maybe something was wrong, looks like i'm right..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "qz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well actually its not like tha-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Dont worry! I got this, you just sit back and let me take care of this."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "qz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " Pac that isn't neces-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pt",
+			"boxState": "angry",
+			"expression": "normal",
+			"text": "So, you're the one causing all the trouble huh!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "bop..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": " I think there's been a bit of a misunderstan-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pt",
+			"boxState": "angry",
+			"expression": "normal",
+			"text": "Shut up both of you! You caused Quizzy trouble, and for that, you'll have to pay the price.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "beep bop..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pt",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Heh, too late now, let's do this!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "qz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "thinking: why is he always like this"
+		}
+	]
+}

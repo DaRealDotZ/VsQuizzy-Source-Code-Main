@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "qz",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Not too shabby! Too bad that was just a warm up, sorry if you felt any bit of confidence yknow?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "bobapabeeboopabobeepbapbep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "qz",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Oh we will see about that!"
+		}
+	]
+}

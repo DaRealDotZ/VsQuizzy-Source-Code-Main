@@ -1,0 +1,144 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "pt",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": " Dammit! How did I lose to someone like you!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "bee-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pt",
+			"boxState": "angry",
+			"expression": "normal",
+			"text": "No...I wont let this happen! I wont let you get away with thi-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "qz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "**bonk** If you dont shut your goofy ass up and let me explain!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pt",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "What are you talking about? \r"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "qz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " Oh my god..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "**one explanation later**"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pt",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "..oh so, you weren't in trouble...and I just did all that for nothing.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "qz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Like I just told you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pt",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "..oh-\r"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pt",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Hey uh, im uh, sorry about that, thought you were a threat-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah you're fine! It was actually entertaining watching you 2 go at it!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pt",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Heh, well maybe if you come around again, we can have a round 2"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pt",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Ok Well Cya!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pt",
+			"boxState": "normal",
+			"expression": "hidden",
+			"text": "**pac leaves**"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "qz",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Now that that is out of the way, you up for one more? You beat me in this one, you can come here whenever you want!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "qz",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Heh, ok little man, let's do this! GUH!!"
+		}
+	]
+}

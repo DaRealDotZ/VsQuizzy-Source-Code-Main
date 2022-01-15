@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		220,
+		140
+	],
+	"scale": 2.05,
+	"animations": [
+		{
+			"loop_name": "PT_Dialogue upset",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PT_Dialogue upset",
+			"anim": "upset",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PT_Dialogue normal",
+			"idle_offsets": [
+				1,
+				0
+			],
+			"idle_name": "PT_Dialogue normal",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PT_Dialogue hidden",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PT_Dialogue hidden",
+			"anim": "hidden",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "PT_Dialogue"
+}

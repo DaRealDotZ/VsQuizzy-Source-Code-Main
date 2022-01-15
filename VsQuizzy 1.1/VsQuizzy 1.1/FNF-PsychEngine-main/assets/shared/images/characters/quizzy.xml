@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="quizzy.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blueDown0000" x="50" y="50" width="380" height="702" frameX="-35" frameY="-23" frameWidth="415" frameHeight="725"/>
+	<SubTexture name="blueDown0001" x="50" y="50" width="380" height="702" frameX="-35" frameY="-23" frameWidth="415" frameHeight="725"/>
+	<SubTexture name="blueDown0002" x="480" y="50" width="346" height="725" frameX="-31" frameY="0" frameWidth="415" frameHeight="725"/>
+	<SubTexture name="blueDown0003" x="876" y="50" width="348" height="723" frameX="0" frameY="-2" frameWidth="415" frameHeight="725"/>
+	<SubTexture name="blueDown0004" x="876" y="50" width="348" height="723" frameX="0" frameY="-2" frameWidth="415" frameHeight="725"/>
+	<SubTexture name="blueIdle0000" x="1274" y="50" width="332" height="673" frameX="-6" frameY="-47" frameWidth="338" frameHeight="720"/>
+	<SubTexture name="blueIdle0001" x="1274" y="50" width="332" height="673" frameX="-6" frameY="-47" frameWidth="338" frameHeight="720"/>
+	<SubTexture name="blueIdle0002" x="1656" y="50" width="302" height="684" frameX="-10" frameY="-36" frameWidth="338" frameHeight="720"/>
+	<SubTexture name="blueIdle0003" x="1656" y="50" width="302" height="684" frameX="-10" frameY="-36" frameWidth="338" frameHeight="720"/>
+	<SubTexture name="blueIdle0004" x="2008" y="50" width="283" height="702" frameX="-13" frameY="-18" frameWidth="338" frameHeight="720"/>
+	<SubTexture name="blueIdle0005" x="2008" y="50" width="283" height="702" frameX="-13" frameY="-18" frameWidth="338" frameHeight="720"/>
+	<SubTexture name="blueIdle0006" x="2341" y="50" width="301" height="720" frameX="0" frameY="0" frameWidth="338" frameHeight="720"/>
+	<SubTexture name="blueIdle0007" x="2341" y="50" width="301" height="720" frameX="0" frameY="0" frameWidth="338" frameHeight="720"/>
+	<SubTexture name="blueIdle0008" x="2341" y="50" width="301" height="720" frameX="0" frameY="0" frameWidth="338" frameHeight="720"/>
+	<SubTexture name="blueIdle0009" x="2341" y="50" width="301" height="720" frameX="0" frameY="0" frameWidth="338" frameHeight="720"/>
+	<SubTexture name="blueLeft0000" x="2692" y="50" width="394" height="687" frameX="0" frameY="-28" frameWidth="394" frameHeight="715"/>
+	<SubTexture name="blueLeft0001" x="2692" y="50" width="394" height="687" frameX="0" frameY="-28" frameWidth="394" frameHeight="715"/>
+	<SubTexture name="blueLeft0002" x="3136" y="50" width="352" height="714" frameX="-41" frameY="-1" frameWidth="394" frameHeight="715"/>
+	<SubTexture name="blueLeft0003" x="3538" y="50" width="330" height="715" frameX="-54" frameY="0" frameWidth="394" frameHeight="715"/>
+	<SubTexture name="blueLeft0004" x="3538" y="50" width="330" height="715" frameX="-54" frameY="0" frameWidth="394" frameHeight="715"/>
+	<SubTexture name="blueRight0000" x="50" y="825" width="435" height="735" frameX="-27" frameY="0" frameWidth="462" frameHeight="735"/>
+	<SubTexture name="blueRight0001" x="50" y="825" width="435" height="735" frameX="-27" frameY="0" frameWidth="462" frameHeight="735"/>
+	<SubTexture name="blueRight0002" x="535" y="825" width="370" height="731" frameX="-27" frameY="-4" frameWidth="462" frameHeight="735"/>
+	<SubTexture name="blueRight0003" x="955" y="825" width="348" height="727" frameX="0" frameY="-8" frameWidth="462" frameHeight="735"/>
+	<SubTexture name="blueRight0004" x="955" y="825" width="348" height="727" frameX="0" frameY="-8" frameWidth="462" frameHeight="735"/>
+	<SubTexture name="blueUp0000" x="1353" y="825" width="380" height="752"/>
+	<SubTexture name="blueUp0001" x="1353" y="825" width="380" height="752"/>
+	<SubTexture name="blueUp0002" x="1783" y="825" width="369" height="733" frameX="-1" frameY="-19" frameWidth="380" frameHeight="752"/>
+	<SubTexture name="blueUp0003" x="2202" y="825" width="366" height="705" frameX="-12" frameY="-47" frameWidth="380" frameHeight="752"/>
+	<SubTexture name="blueUp0004" x="2202" y="825" width="366" height="705" frameX="-12" frameY="-47" frameWidth="380" frameHeight="752"/>
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				140,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+		},
+		{
+			"offsets": [
+				41,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "blueLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "blueIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				-5
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "blueDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "blueRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				23
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "blueUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/quizzy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "quizzy",
+	"flip_x": false,
+	"healthbar_colors": [
+		57,
+		98,
+		180
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

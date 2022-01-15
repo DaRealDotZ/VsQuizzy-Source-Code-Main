@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		220,
+		120
+	],
+	"scale": 1.7,
+	"animations": [
+		{
+			"loop_name": "QZ_Dialogue upset",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "QZ_Dialogue upset",
+			"anim": "upset",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "QZ_Dialogue normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "QZ_Dialogue normal",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "QZ_Dialogue"
+}

@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "qz",
+			"boxState": "normal",
+			"expression": "upset",
+			"text": "ah, so what do we have here? intruders\\nperhaps?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "qz",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "oh, you got lost?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "yeah sorry, we just saw this door and wanted\\nto check it out"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "qz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well i guess if you guys meant no harm\\ni wont have to kick you out"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "bopabeeboo?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "qz",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what? a rap battle? why?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah, its kinda our thing when we meet new\\npeople"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "qz",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Heh, well luckly for you, i love rapping, you're\\non!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep!"
+		}
+	]
+}

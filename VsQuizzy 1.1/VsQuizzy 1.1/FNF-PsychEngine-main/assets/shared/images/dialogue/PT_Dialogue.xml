@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="PT_Dialogue.png"><SubTexture name="PT_Dialogue normal0000" x="0" y="0" width="264" height="264" frameX="0" frameY="0" frameWidth="264" frameHeight="264" />
+<SubTexture name="PT_Dialogue hidden0000" x="0" y="264" width="264" height="264" frameX="0" frameY="0" frameWidth="264" frameHeight="264" />
+<SubTexture name="PT_Dialogue upset0000" x="0" y="528" width="264" height="264" frameX="0" frameY="0" frameWidth="264" frameHeight="264" />
+</TextureAtlas>
